@@ -1,5 +1,3 @@
-
-
 RSpec.describe HelloWorld do
    context "When testing the HelloWorld class" do
 
